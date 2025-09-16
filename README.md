@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-<img align="top" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 19-year-old Electronics & Communications Engineering student at **Alexandria University**  
 - 💡 Passionate about **Artificial Intelligence** and **Embedded Systems**  
@@ -52,7 +52,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" />
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" />
 </p>
 
 ---
