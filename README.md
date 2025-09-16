@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Banner / Intro -->
+<h1 align="center">Hi 👋, I'm Elsayed Ashraf Bakry</h1>
 
-<!--
-**ExpiredEng/ExpiredEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EF7C3&center=true&vCenter=true&width=600&lines=Electronics+%26+Communications+Engineer;AI+%2B+Embedded+Systems+Enthusiast;Passionate+about+Intelligent+Hardware;Always+Learning+and+Building+Projects" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 19-year-old Electronics & Communications Engineering student at **Alexandria University**  
+- 💡 Passionate about **Artificial Intelligence** and **Embedded Systems**  
+- ⚡ Exploring the **intersection of AI & Hardware** to build innovative solutions  
+- 🌱 Always curious and learning through **hands-on projects**  
+
+---
+
+## 🛠️ Skills & Interests
+- 💻 **Programming:** C, C++, Python  
+- 🔬 **Domains:** Artificial Intelligence, Machine Learning, Embedded Systems  
+- 🛠️ **Tools:** Arduino, Git/GitHub, Jupyter, MATLAB  
+- 🌍 **Other Interests:** IoT, Problem-Solving, Competitive Programming  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/elsayed-ashraf-bakry-ab9b431b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sayedbakry" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="sayedworkacc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExpiredEng&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExpiredEng&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎬 Fun GIFs
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" />
+</p>
+
+---
+
+⭐ *"Turning ideas into intelligent real-world systems with AI & Hardware."*
