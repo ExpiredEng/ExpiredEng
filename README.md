@@ -50,12 +50,5 @@
 
 ---
 
-## 🎬 Fun GIFs
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
-</p>
-
----
 
 ⭐ *"Turning ideas into intelligent real-world systems with AI & Hardware."*
