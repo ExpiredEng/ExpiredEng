@@ -8,9 +8,6 @@
 ---
 
 ## 🚀 About Me
-<img align="right" alt="Coding GIF" width="220" 
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     style="border-radius:50%;">
 
 - 🎓 19-year-old Electronics & Communications Engineering student at **Alexandria University**  
 - 💡 Passionate about **Artificial Intelligence** and **Embedded Systems**  
